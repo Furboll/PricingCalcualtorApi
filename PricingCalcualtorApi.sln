@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PricingCalcualtorApi", "PricingCalcualtorApi\PricingCalcualtorApi.csproj", "{ED4D4AAC-60B8-4E14-9F8E-0024F7746656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricingCalculatorApiUnitTests", "PricingCalculatorApiUnitTests\PricingCalculatorApiUnitTests.csproj", "{E91D9675-FF38-45B6-8DD5-E7911686F3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4D4AAC-60B8-4E14-9F8E-0024F7746656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4D4AAC-60B8-4E14-9F8E-0024F7746656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4D4AAC-60B8-4E14-9F8E-0024F7746656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4D4AAC-60B8-4E14-9F8E-0024F7746656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91D9675-FF38-45B6-8DD5-E7911686F3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91D9675-FF38-45B6-8DD5-E7911686F3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91D9675-FF38-45B6-8DD5-E7911686F3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91D9675-FF38-45B6-8DD5-E7911686F3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52DF2C5-12B8-4548-969C-501E95978304}
+	EndGlobalSection
+EndGlobal
